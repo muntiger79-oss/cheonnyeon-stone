@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://muntiger79-oss.github.io/cheonnyeon-stone/sitemap.xml
